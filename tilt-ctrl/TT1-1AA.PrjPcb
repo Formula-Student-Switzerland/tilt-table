@@ -1323,16 +1323,6 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
-[NetInfos]
-Net1=NetName=L|NetColor=$006E6EFF
-Net2=NetName=L_CMC|NetColor=$006E6EFF
-Net3=NetName=L_f|NetColor=$006E6EFF
-Net4=NetName=L_INV|NetColor=$006E6EFF
-Net5=NetName=N|NetColor=$00FF6E6E
-Net6=NetName=N_CMC|NetColor=$00FF6E6E
-Net7=NetName=N_f|NetColor=$00FF6E6E
-Net8=NetName=N_INV|NetColor=$00FF6E6E
-
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
