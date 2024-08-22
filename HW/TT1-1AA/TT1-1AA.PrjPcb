@@ -121,32 +121,32 @@ DocumentPath=Project Outputs for TT1-1AA\Design Rule Check - TT1-1A-BASIS.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=daniw
+Name=Project
+Value=TiltTable
 
 [Parameter2]
-Name=Index_Main
-Value=A
+Name=Schema_Designer
+Value=daniw
 
 [Parameter3]
-Name=Index_Sub
-Value=A
+Name=PCB_NAME
+Value=TT1-1
 
 [Parameter4]
 Name=Layout_Designer
 Value=daniw
 
 [Parameter5]
-Name=PCB_NAME
-Value=TT1-1
+Name=Index_Sub
+Value=A
 
 [Parameter6]
-Name=Schema_Designer
-Value=daniw
+Name=Index_Main
+Value=A
 
 [Parameter7]
-Name=Tilttable
-Value=NightCone
+Name=Author
+Value=daniw
 
 [Configuration1]
 Name=Sources
