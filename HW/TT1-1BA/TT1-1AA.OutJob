@@ -97,8 +97,8 @@ OutputDocumentPath4=
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
-OutputEnabled4_OutputMedium2=0
-OutputEnabled4_OutputMedium3=0
+OutputEnabled4_OutputMedium2=7
+OutputEnabled4_OutputMedium3=2
 OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
@@ -290,8 +290,8 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
-OutputEnabled10_OutputMedium2=0
-OutputEnabled10_OutputMedium3=0
+OutputEnabled10_OutputMedium2=8
+OutputEnabled10_OutputMedium3=3
 OutputEnabled10_OutputMedium4=0
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
@@ -345,8 +345,8 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputEnabled13=0
 OutputEnabled13_OutputMedium1=0
-OutputEnabled13_OutputMedium2=7
-OutputEnabled13_OutputMedium3=0
+OutputEnabled13_OutputMedium2=9
+OutputEnabled13_OutputMedium3=4
 OutputEnabled13_OutputMedium4=0
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
@@ -369,8 +369,8 @@ OutputDocumentPath14=
 OutputVariantName14=
 OutputEnabled14=0
 OutputEnabled14_OutputMedium1=0
-OutputEnabled14_OutputMedium2=8
-OutputEnabled14_OutputMedium3=2
+OutputEnabled14_OutputMedium2=10
+OutputEnabled14_OutputMedium3=5
 OutputEnabled14_OutputMedium4=0
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
@@ -388,7 +388,7 @@ Configuration14_Name6=VisibleOrder_Flat
 Configuration14_Item6=Comment=120|Designator=120|Footprint=100|Supplier Part Number 3=100
 
 [PublishSettings]
-OutputFilePath1=C:\Daten\Temp\tilt-table\tilt-ctrl\Manufacturing\01 - PCB Manufacturing\
+OutputFilePath1=C:\Daten\Daniel\fsch\tilt-table\HW\TT1-1BA\Manufacturing\01 - PCB Manufacturing\
 ReleaseManaged1=0
 OutputBasePath1=Manufacturing\
 OutputPathMedia1=01 - PCB Manufacturing
@@ -428,7 +428,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Daten\Daniel\fsch\tilt-table\tilt-ctrl\Manufacturing\04 - PCB Assembly\
+OutputFilePath3=C:\Daten\Daniel\fsch\tilt-table\HW\TT1-1BA\Manufacturing\04 - PCB Assembly\
 ReleaseManaged3=0
 OutputBasePath3=Manufacturing\
 OutputPathMedia3=04 - PCB Assembly
@@ -441,7 +441,7 @@ OutputFileNameMulti3==PCB_Name+Index_Main+Index_Sub+'_'+OutputName+'_'+CurrentDa
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=0
-OutputFilePath4=C:\Daten\Daniel\fsch\tilt-table\tilt-ctrl\Manufacturing\05 - Mechanical\
+OutputFilePath4=C:\Daten\Daniel\fsch\tilt-table\HW\TT1-1BA\Manufacturing\05 - Mechanical\
 ReleaseManaged4=0
 OutputBasePath4=Manufacturing\
 OutputPathMedia4=05 - Mechanical
@@ -456,7 +456,7 @@ OutputFileNameSpecial4=
 OpenOutput4=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath1=C:\Daten\Temp\tilt-table\tilt-ctrl\Manufacturing\01 - PCB Manufacturing\
+RelativeOutputPath1=C:\Daten\Daniel\fsch\tilt-table\HW\TT1-1BA\Manufacturing\01 - PCB Manufacturing\
 OpenOutputs1=0
 AddToProject1=0
 TimestampFolder1=0
@@ -468,7 +468,7 @@ OpenIPCOutput1=0
 EnableReload1=0
 RelativeOutputPath2=C:\Daten\Daniel\fsch\night-cones\HW\night-cone-proto0\Manufacturing\04 - PCB Assembly\
 OpenOutputs2=1
-RelativeOutputPath3=C:\Daten\Daniel\fsch\tilt-table\tilt-ctrl\Manufacturing\04 - PCB Assembly\
+RelativeOutputPath3=C:\Daten\Daniel\fsch\tilt-table\HW\TT1-1BA\Manufacturing\04 - PCB Assembly\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
@@ -478,7 +478,7 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=C:\Daten\Daniel\fsch\tilt-table\tilt-ctrl\Manufacturing\05 - Mechanical\
+RelativeOutputPath4=C:\Daten\Daniel\fsch\tilt-table\HW\TT1-1BA\Manufacturing\05 - Mechanical\
 OpenOutputs4=0
 AddToProject4=0
 TimestampFolder4=0
